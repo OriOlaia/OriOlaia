@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , soy Oriana Olaia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 	
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **Sobre mi**
+## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **Creadora de contenido Gamer y Tecnología**
 
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
@@ -13,8 +13,7 @@
 - 🌱 Ampliando más conocimiento para diferentes rubros como analisis de datos, power bi, backend.
 - 👯 Busco colaborar y participar en proyectos como voluntaria y practicante
 - 💬 Pregúntame sobre creadora de contenido
-- 📫 Cómo contactarme: Contacto
-- 😄 Pronombres: Ella/Ella
+- 📫 Cómo contactarme: oriana.olaia17@gmail.com
 - ⚡ Dato curioso: Soy una persona hipoacusica y hago deportes
 
 <br>
@@ -76,8 +75,6 @@
   			  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.github.com/OriOlaia">
   		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="malito:oriana.olaia17@gmail.com">
-  		    <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
     </div>
   </p>
 </div>
